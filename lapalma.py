@@ -78,7 +78,7 @@ print(np.max(testdata))
 # plt.imshow(testdata)
 # plt.show()
 
-
+#asdfhsgioidnfseodj
 
 
 
